@@ -10,7 +10,7 @@ on various features extracted from diagnostic images.
 ## Dataset
 
 
-Sure, you can include information about where you obtained the dataset in your README.md file. Here's an example:
+
 
 Breast Cancer Wisconsin (Original) Dataset
 The Breast Cancer Wisconsin (Original) dataset contains real data from 699 observations, each with independent variables used to 
